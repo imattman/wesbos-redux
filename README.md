@@ -1,3 +1,3 @@
 # wesbos-redux
 
-From [https://learnredux.com/]
+From https://learnredux.com/
